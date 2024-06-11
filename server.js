@@ -6,7 +6,7 @@ import fetch from 'node-fetch';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import dotenv from 'dotenv';
-
+// Code start
 // Load environment variables from .env file
 dotenv.config();
 // Define __dirname
